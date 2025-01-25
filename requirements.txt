@@ -1,0 +1,13 @@
+langchain
+langchain_community
+gpt4all
+torch
+sentence_transformers
+pymupdf
+faiss-cpu
+langchain_google_genai
+pymupdf
+selenium
+webdriver_manager
+bs4
+streamlit
